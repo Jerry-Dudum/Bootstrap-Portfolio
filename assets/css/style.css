@@ -139,20 +139,27 @@ nav {
     margin-bottom: 20px;
 }
 
-.photo {
-    width: 300px;
-    height: 300px;
-
-}
-
 .imgName {
     text-align: center;
     color: #ffffff;
     background: #4aaaa5;
     padding: 10px;
-    font-size: 30px;
-    width: 300px;
+    font-size: 15px;
+    width: 100%;
     position: absolute;
     bottom: 0;
     margin-bottom: 30px;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+.photo {
+    max-width: 280px;
+    height: auto;
+    position: relative;
+    color: #ffffff;
+    margin-bottom: 50px;
 }
