@@ -21,5 +21,5 @@
 This application is my first portfolio page with bootstrap added to it to make it more responsive.
 
 ### Links
-- [Basic-Portfolio](https://jerry-dudum.github.io/Responsive-Portfolio/)
+- [Bootstrap-Portfolio](https://jerry-dudum.github.io/Bootstrap-Portfolio/)
 - [LinkedIn](https://www.linkedin.com/in/jsdudum/)
