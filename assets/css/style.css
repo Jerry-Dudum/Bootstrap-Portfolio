@@ -2,6 +2,11 @@
     box-sizing: border-box;
 }
 
+html {
+    position: relative;
+    min-height: 100%;
+}
+
 body {
     background-image: url("../images/concrete.png");
     height: 100%;
@@ -98,9 +103,7 @@ section {
 }
 
 nav {
-    float: right;
-    margin-top: 15px;
-    margin-right: 25px;
+   border-bottom: #cccccc 5px solid;
 }
 
 .content {
