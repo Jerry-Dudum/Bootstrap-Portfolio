@@ -68,6 +68,7 @@ h1 {
     color: #ffffff;
     background: #666666;
     border-top: #4aaaa5 8px solid;
+    position: absolute;
 }
 
 #rocky {
